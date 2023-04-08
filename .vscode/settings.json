@@ -15,7 +15,8 @@
         "analysis_options.yaml": true,
         "flutter_application_2.iml": true,
         "pubspec.lock": true,
-        "README.md": true
+        "README.md": true,
+        "build": true
     },
     "explorerExclude.backup": {}
 }
