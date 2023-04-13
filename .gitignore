@@ -42,8 +42,11 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# try del vscode settings
 .vscode/settings.json
 .vscode/
 lib/data/api.dart
 .vscode/settings.json
 lib/data/api.dart
+readme.dart

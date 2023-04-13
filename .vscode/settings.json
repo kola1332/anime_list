@@ -8,15 +8,16 @@
         "**/Thumbs.db": true,
         ".dart_tool": true,
         ".idea": true,
-        ".vscode": true,
+        ".vscode": false,
         "android": true,
-        ".gitignore": true,
+        ".gitignore": false,
         ".metadata": true,
         "analysis_options.yaml": true,
         "flutter_application_2.iml": true,
         "pubspec.lock": true,
         "README.md": true,
-        "build": true
+        "build": true,
+        "api.g.dart": true
     },
     "explorerExclude.backup": {}
 }
