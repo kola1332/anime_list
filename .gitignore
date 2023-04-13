@@ -50,3 +50,4 @@ lib/data/api.dart
 .vscode/settings.json
 lib/data/api.dart
 readme.dart
+lib/data/api.g.dart
