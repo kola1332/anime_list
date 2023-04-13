@@ -10,6 +10,4 @@ abstract  class ApiService {
 
   @GET("https://api.jikan.moe/v4/anime")
   Future<Anime> get();
-
-  
 }
