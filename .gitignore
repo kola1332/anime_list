@@ -45,3 +45,4 @@ app.*.map.json
 .vscode/settings.json
 .vscode/
 lib/data/api.dart
+.vscode/settings.json
